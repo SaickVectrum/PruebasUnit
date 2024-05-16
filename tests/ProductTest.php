@@ -7,8 +7,8 @@ class ProductTest extends TestCase
 	
 	public function testNameProduct()
 	{
-		$product = new Product("camiseta", 100);
-		$this->assertEquals("camiseta",$product->getNameProduct());
+		$product = new Product("black shirt", 100);
+		$this->assertEquals("black shirt",$product->getNameProduct());
 	}
 
 }

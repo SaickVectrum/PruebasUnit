@@ -7,9 +7,9 @@ class CategoryTest extends TestCase
 	public function testNameCategory()
 	{
 		$category = new Category;
-		$category->name = "Camisetas";
+		$category->name = "Shirts";
 		$result = $category->getNameCategory();
-		$expected = "Camisetas";
+		$expected = "Shirts";
 		$this->assertEquals($expected, $result);
 	}
 
