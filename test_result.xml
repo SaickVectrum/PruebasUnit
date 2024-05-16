@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tests>
+  <test className="BMICalculatorTest" methodName="testShowsUnderweightWhenBmiLessThan18" prettifiedClassName="BMICalculator" prettifiedMethodName="Shows underweight when bmi less than 18" status="0" time="0.011622905731201" size="-1" groups="default">
+    <group name="default"/>
+  </test>
+  <test className="BMICalculatorTest" methodName="testShowsNormalWhenBmiBetween1825" prettifiedClassName="BMICalculator" prettifiedMethodName="Shows normal when bmi between 1825" status="0" time="0.00026893615722656" size="-1" groups="default">
+    <group name="default"/>
+  </test>
+  <test className="BMICalculatorTest" methodName="testShowsOverweightWhenBmiGreaterThan25" prettifiedClassName="BMICalculator" prettifiedMethodName="Shows overweight when bmi greater than 25" status="0" time="0.00020813941955566" size="-1" groups="default">
+    <group name="default"/>
+  </test>
+  <test className="BMICalculatorTest" methodName="testCanCalculateCorrectBmi" prettifiedClassName="BMICalculator" prettifiedMethodName="Can calculate correct bmi" status="0" time="0.00085282325744629" size="-1" groups="default">
+    <group name="default"/>
+  </test>
+</tests>
